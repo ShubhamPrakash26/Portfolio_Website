@@ -1,7 +1,5 @@
 # Personal Portfolio Website
 
-![Portfolio Website](portfolio-screenshot.png)
-
 This is a personal portfolio website showcasing my experience, contact information, and a collection of my projects. It's built using HTML, CSS, and JavaScript to provide a platform for presenting my skills, work history, and projects to potential employers, clients, or collaborators.
 
 ## Table of Contents
