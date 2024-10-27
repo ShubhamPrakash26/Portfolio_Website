@@ -37,7 +37,7 @@ Follow these instructions to set up your personal portfolio website on your loca
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/ShubhamPrakash26/portfolio-website.git
    ```
 
 2. Navigate to the project directory:
